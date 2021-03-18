@@ -6,7 +6,7 @@
 #### The following figure shows the number of employees that will be retiring:
 ![Retiring_employees_count.PNG](Data/Retiring_employees_count.PNG)
 
-####The following figure shows the number of retiring employees that are eligible for a mentorship program:
+#### The following figure shows the number of retiring employees that are eligible for a mentorship program:
 ![Mentorship_eligible_count.PNG](Data/Mentorship_eligible_count.PNG)
 #### Employees who are eligible for the mentorship program are those whose birth dates fall between January 1, 1965 and December 31, 1965. 
 # Summary: 
